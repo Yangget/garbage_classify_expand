@@ -1,11 +1,15 @@
 # garbage_classify
 
 ----------------------------
-<html>
+
 <font color="#660000">This is an extended database of Huawei Cloud Waste Sorting Competition dataset. The data comes from the Internet. The author only collects and organizes. The public data set is limited to the competition and is forbidden for commercial use. If there is copyright infringement, please contact the author 1725457378@qq.com to delete, thank you for your cooperation.</font>
-</html>
 
+### Download
+-------------------------------------
+链接: https://pan.baidu.com/s/1Fi7cxNKnZvhDdd-xXvNlRQ 提取码: gqjb 复制这段内容后打开百度网盘手机App，操作更方便哦
 
+### Datasheets
+----------------------------------
 ```shell
 补充数据:4175
 编号:fimg_
