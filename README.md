@@ -10,8 +10,7 @@ https://github.com/Yangget/garbage_classify
 
 ### Download
 -------------------------------------
-链接: https://pan.baidu.com/s/1Fi7cxNKnZvhDdd-xXvNlRQ 提取码: gqjb 复制这段内容后打开百度网盘手机App，操作更方便哦
-
+链接: https://pan.baidu.com/s/1H_hzSw3JSwwsOUhQOop0xw  密码: ktp2
 记得star
 
 
